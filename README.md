@@ -1,1 +1,1 @@
-# Padr-es-de-Projeto---CCH
+# Padrões de Projeto - CCH
